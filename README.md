@@ -28,16 +28,22 @@
 
   Run npm i to install packages needed. 
 
-  To use mySQL: run mysql -u root -p in terminal, and run SOURCE on db/schema.sql file.
+  To use mySQL: run mysql -u root -p in terminal, and run SOURCE db/schema.sql file.
 
   Repo: https://github.com/adelineagus/e-commerce
 
   ## Usage
   In terminal, run npm run seed and npm run start . Visit insomnia to test app. 
 
-  Screenshot first-section: [link](./images/landingpage.png)
+  Screenshot GET : [link](./images/getproducts.png)
+
+  Screenshot GET by id: [link](./images/gettagsbyid.png)
   
-  Screenshot second-section: [link](./images/notespage.png)
+  Screenshot CREATE: [link](./images/createcategories.png)
+
+  Screenshot PUT: [link](./images/updatetags.png)
+
+  Screenshot DELETE: [link](./images/deleteproducts.png)
   
   Setting up application walkthrough link: https://drive.google.com/file/d/1UYMxdaIii3-mWA_40kV-_mcq5Tu_qYFH/view
 
