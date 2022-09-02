@@ -30,21 +30,18 @@
 
   To use mySQL: run mysql -u root -p in terminal, and run SOURCE on db/schema.sql file.
 
-  Run npm run seed and npm run start 
-
   Repo: https://github.com/adelineagus/e-commerce
 
   ## Usage
-  In terminal, run npm run seed and npm run start . Go to localhost:3001 in browser to use the application. 
+  In terminal, run npm run seed and npm run start . Visit insomnia to test app. 
 
   Screenshot first-section: [link](./images/landingpage.png)
   
   Screenshot second-section: [link](./images/notespage.png)
-
-  heroku app link: https://adeline-notetaker.herokuapp.com
   
-  Walkthrough link: https://drive.google.com/file/d/1ionC93XWc5CLioPQHTGj4k1PS-83Gmqo/view
+  Setting up application walkthrough link: https://drive.google.com/file/d/1UYMxdaIii3-mWA_40kV-_mcq5Tu_qYFH/view
 
+  Insomnia walkthrough link: https://drive.google.com/file/d/1-U53ahkEGhGBjPDRW0zChEyHiIKEKx0-/view
 
   ## Credits
   Collaborators: Adeline Aguspranoto
